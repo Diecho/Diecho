@@ -1,6 +1,6 @@
 # Hi, I'm Diego Hidalgo
 
-Software & Computer Engineering and Physics student at Clovis Community College with interests in systems programming, computer architecture, networking, and quantum/theoretical physics.
+Software & Computer Engineering and Physics student at UCLA with interests in systems programming, computer architecture, networking, and quantum/theoretical physics.
 
 ## Current interests
 - Low-level programming and computer systems
